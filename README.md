@@ -81,7 +81,7 @@
 <table align="center">
   <tr>
     <td rowspan="2">
-      <img src="https://leetcard.jacoblin.cool/322jlee?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+      <img src="https://leetcard.jacoblin.cool/322jlee?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobL04&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages"/>
