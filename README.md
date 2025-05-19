@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Jacob</h1>
 <p align="center">
-  💡 Software Engineer • 🎮 Game Dev Hobbyist • 🎨 Creative Technologist
+  💻 Software Developer • 🧠 AGI + AI Research Enthusiast • 📊 Data Science
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Website-Under%20Maintenance-yellow?style=for-the-badge"/>
   </a>
   -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/jacob-hyunho-lee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -44,11 +44,12 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> About Me
 
-- 🎓 Computer Science student focused on **AI, Data Science, and Interactive Media**
-- 🧠 Passionate about **AGI**, **Game Dev**, and **Creative Coding**
-- 🔭 Currently working on: personal projects, leetcoding, and building my portfolio
-- 🌱 Learning more about **systems programming**, **math**, and **machine learning**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🎓 Honors Computer Science student focused on **AI, Data Science**, and **Software Engineer**
+- 🧠 Passionate about **AGI research**, **Scientific Computing**, and **Creative Coding**
+- 🔭 Currently working on: **Web development** for a chiropractic clinic, **grinding LeetCode**, and building out my **portfolio**
+- 🌱 Currently learning about: **HTTPS Servers**, **Mathematics**, and **Machine Learning**
+- 🎬 Hobbies: **Bouldering**, **Filmmaking** and **Music**
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
@@ -58,10 +59,12 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -73,12 +76,23 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Dev Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobL04&layout=compact&theme=tokyonight&langs_count=6&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JacobL04&show_icons=true&count_private=true&hide=prs,contribs&hide_rank=true&theme=tokyonight&hide_border=true"/>
-</p>
+<table align="center">
+  <tr>
+    <td rowspan="2">
+      <img src="https://leetcard.jacoblin.cool/322jlee?theme=light&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobL04&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JacobL04&show_icons=true&count_private=true&hide=prs,contribs&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,15 +103,6 @@
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
-
----
-
-<details>
-<summary>📝 <strong>Notes / Quotes / Warnings</strong></summary>
-
-> ⚠️ **Work in Progress:** I'm currently rebuilding some older projects with better practices. Stay tuned!
-
-</details>
 
 ---
 
