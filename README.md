@@ -49,7 +49,7 @@
 - 🔭 Currently working on: **Web development** for a chiropractic clinic, **grinding LeetCode**, and building out my **portfolio**
 - 🌱 Currently learning about: **HTTPS Servers**, **Mathematics**, and **Machine Learning**
 - 🎬 Hobbies: **Bouldering**, **Filmmaking** and **Music**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me on discord (temporary contact): neighbourjack <!-- [your.email@example.com](mailto:your.email@example.com) -->
 
 ---
 
