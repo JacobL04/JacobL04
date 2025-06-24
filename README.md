@@ -45,9 +45,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> About Me
 
 - 🎓 Honors Computer Science student focused on **AI, Data Science**, and **Software Engineer**
-- 🧠 Passionate about **AGI research**, **Scientific Computing**, and **Creative Coding**
-- 🔭 Currently working on: **Web development** for a chiropractic clinic, **grinding LeetCode**, and building out my **portfolio**
-- 🌱 Currently learning about: **HTTPS Servers**, **Mathematics**, and **Machine Learning**
+- 🧠 Passionate about **AGI research**, **Software Development**, and **STEM**
+- 🔭 Currently working on: **AI Debugger VS Extension**, **Web development** for a chiropractic clinic and **grinding LeetCode**
+- 🌱 Currently learning about: **Retrieval-Augmented Generation (RAG)**, **Mathematics**, and **Machine Learning**
 - 🎬 Hobbies: **Bouldering**, **Filmmaking** and **Music**
 - 📫 Reach me on discord (temporary contact): neighbourjack <!-- [your.email@example.com](mailto:your.email@example.com) -->
 
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
