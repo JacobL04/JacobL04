@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jacoblee.codes">
+  <a href="https://jacoblee.codes" target="_blank">
     <img src="https://img.shields.io/badge/Website-Online-04c214?style=for-the-badge"/>
   </a>
   <!--
