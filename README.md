@@ -45,11 +45,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> About Me
 
 - 🎓 Honors Computer Science student focused on **AI, Data Science**, and **Software Engineer**
-- 🧠 Passionate about **AGI research**, **Software Development**, and **STEM**
-- 🔭 Currently working on: **AI Debugger VS Extension**, **Web development** for a chiropractic clinic and **grinding LeetCode**
-- 🌱 Currently learning about: **Retrieval-Augmented Generation (RAG)**, **Mathematics**, and **Machine Learning**
+- 🧠 Passionate about **AGI research**, **Software Development**, and **STEM** in general
+- 🔭 Currently working on: **Academia** and **School work**
+- 🌱 Currently learning about: **Databases**, **Mathematics**, and **Machine Learning**
 - 🎬 Hobbies: **Bouldering**, **Filmmaking** and **Music**
-- 📫 Reach me on discord (temporary contact): neighbourjack <!-- [your.email@example.com](mailto:your.email@example.com) -->
+- 📫 Reach me on discord (temporary contact): `neighbourjack` <!-- [your.email@example.com](mailto:your.email@example.com) -->
 
 ---
 
