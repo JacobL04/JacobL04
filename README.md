@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Jacob</h1>
 <p align="center">
-  💻 Software Developer • 🧠 AGI + AI Research Enthusiast • 📊 Data Science
+  💻 Software Developer • 📊 AI/ML Researcher • 🧠 AGI + AI Research Enthusiast 
 </p>
 
 <p align="center">
