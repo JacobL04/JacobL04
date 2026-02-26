@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />, I'm Jacob</h1>
 <p align="center">
-  💻 Software Developer • 📊 AI/ML Researcher • 🧠 AGI + AI Research Enthusiast 
+  💻 Software Developer • 📊 AI/ML Researcher • 🧠 AGI + AI Research Enthusiast • 🤖 Developmental Robotics
 </p>
 
 <p align="center">
@@ -45,11 +45,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> About Me
 
 - 🎓 Honors Computer Science student focused on **AI, Data Science**, and **Software Engineer**
-- 🧠 Passionate about **AGI research**, **Software Development**, and **STEM** in general
+- 🧠 Passionate about **AGI research**, **Developmental Robotics**, **Philosophy**, **Software Development**, and **STEM** in general
 - 🔭 Currently working on: **Academia** and **School work**
-- 🌱 Currently learning about: **Databases**, **Mathematics**, and **Machine Learning**
+- 🌱 Currently learning about: **Development Psychology**, **Mathematics**, and **Reinforcement Learning**
 - 🎬 Hobbies: **Bouldering**, **Filmmaking** and **Music**
-- 📫 Reach me on discord (temporary contact): `neighbourjack` <!-- [your.email@example.com](mailto:your.email@example.com) -->
+- 📫 Reach me on discord: `neighbourjack` <!-- [your.email@example.com](mailto:your.email@example.com) -->
 
 ---
 
